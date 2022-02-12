@@ -5,7 +5,6 @@
     <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
 
     <string name="sign_up">SIGN UP</string>
-    <string name="email">Email</string>
     <string name="password">password</string>
     <string name="login">Login</string>
     <string name="forget_password">Forget Password</string>
@@ -49,4 +48,20 @@
     <string name="sign_in_start">sign_in_start</string>
     <string name="ui_sign_in_with_email_facebook">sign in with facebook</string>
     <string name="forgot_password">Forgot Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_firebase_ui">Activity_FirebaseUI</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="login_here">Login here</string>
+    <string name="register_here">Register here</string>
+    <string name="not_registered_yet">Not registered yet</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="i_want_to_do_delivery">I want to do delivery</string>
+    <string name="i_want_food">I want food</string>
+    <string name="whats_your_vibe">whats your vibe?</string>
+    <string name="dish_name">dish name</string>
+    <string name="estimated_shipping_time">Estimated shipping time:</string>
+    <string name="price" />
+    <string name="ingredients">ingredients</string>
+    <string name="title_activity_splash">Activity_Splash</string>
 </resources>

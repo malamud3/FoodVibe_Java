@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="20dp"
+    android:elevation="8dp"
+    app:cardElevation="8dp"
+    android:layout_margin="10dp">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/primary">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="12dp"
+            app:cardCornerRadius="@dimen/corner">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#FFFFFF">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/movie_IMG_image"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@id/movie_RTNG_stars"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_background" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/movie_IMG_favorite"
+                    android:layout_width="36dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@id/movie_LBL_title"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:padding="6dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_heart_empty" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/movie_LBL_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_toStartOf="@id/movie_IMG_favorite"
+                    android:layout_toEndOf="@id/movie_IMG_image"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:maxLines="2"
+                    android:minLines="2"
+                    android:text="@string/dish_name"
+                    android:textSize="18sp" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/movie_LBL_actors"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/movie_LBL_title"
+                    android:layout_alignStart="@id/movie_LBL_title"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:minLines="2"
+                    android:text="@string/ingredients"
+                    android:textSize="14sp" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/movie_LBL_duration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/movie_LBL_actors"
+                    android:layout_alignStart="@id/movie_LBL_title"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/custumer_main_ic_time"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/estimated_shipping_time"
+                    android:textSize="14sp" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/price"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/movie_LBL_duration"
+                    android:layout_alignStart="@+id/movie_LBL_duration"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/custumer_main_ic_time"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="price:"
+                    android:textSize="10sp"
+                    android:layout_marginStart="4dp"/>
+
+                <androidx.appcompat.widget.AppCompatRatingBar
+                    android:id="@+id/movie_RTNG_stars"
+                    style="@style/Widget.AppCompat.RatingBar.Small"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/movie_LBL_duration"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="32dp"
+                    android:layout_toEndOf="@id/movie_IMG_image"
+                    android:paddingBottom="8dp"
+                    android:progressTint="#FFFF00"
+                    android:rating="3.5"
+                    android:secondaryProgressTint="#AEBC861C"
+                    />
+            </RelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>

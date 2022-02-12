@@ -5,7 +5,7 @@
     android:id="@+id/root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FirebaseUIActivity"
+    tools:context=".Activity.Activity_Login"
     android:background="@drawable/color_login">
 
     <ScrollView
@@ -70,9 +70,10 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/fui_sign_in_with_phone"
                 app:icon="@drawable/fui_ic_phone_white_24dp"
-                app:iconSize="25dp"
                 app:cornerRadius="20dp"
                 />
+
+
 
         </LinearLayout>
 

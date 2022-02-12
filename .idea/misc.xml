@@ -4,22 +4,38 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.296875" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/acrivity_custumer_food_list_back.xml" value="0.2635" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/activitiy_food_list.xml" value="0.2635" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/activity_main.xml" value="0.2635" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/color_login.xml" value="0.2630208333333333" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/color_login_fragment.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/custumer_main_ic_star_rate.xml" value="0.192" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/custumer_main_ic_time.xml" value="0.192" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/edit_text_bg.xml" value="0.30364583333333334" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/fragment_login_tab.xml" value="0.2630208333333333" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/ic_email.xml" value="0.2635" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/ic_facebook.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/ic_heart_filled.xml" value="0.2635" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2630208333333333" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/ic_logo.xml" value="0.1" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/drawable/view_bg_open_page.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/SAVEIT1.xml" value="0.3383152173913043" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_customer_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_custumer_main_list.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_delivery_main.xml" value="0.3383152173913043" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_email_password.xml" value="0.3383152173913043" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_firebase_ui.xml" value="0.3383152173913043" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_fullscreen.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_list_food.xml" value="0.3383152173913043" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_list_food_d.xml" value="0.3383152173913043" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_main2.xml" value="0.33" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_phone_auth.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_register.xml" value="0.3383152173913043" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_result_launcher.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_splash.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/activity_what_vibe_user.xml" value="0.3383152173913043" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/content_phone_auth.xml" value="0.2791666666666667" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/fragment_first.xml" value="0.2791666666666667" />
         <entry key="..\:/Users/malam/AndroidStudioProjects/FoodVibe/app/src/main/res/layout/fragment_login.xml" value="0.2734375" />
