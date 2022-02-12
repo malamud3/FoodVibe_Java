@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979908797448",
+    "firebase_url": "https://foodvibe-101-default-rtdb.firebaseio.com",
+    "project_id": "foodvibe-101",
+    "storage_bucket": "foodvibe-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979908797448:android:34c581e1f1b73c70a4ddbd",
+        "android_client_info": {
+          "package_name": "com.example.foodvibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979908797448-37ekid9ucrul4f90e81sic4vkskkfgno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYCr1DMKgzzVPEfLPEHxXS-ensMlch7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979908797448-37ekid9ucrul4f90e81sic4vkskkfgno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
